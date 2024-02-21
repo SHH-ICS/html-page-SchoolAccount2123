@@ -3,6 +3,8 @@ body {
 }
 
 h1 {
+  background-color:DodgerBlue;
+  font-size:50%;
   color: white;
   text-align: center;
 }
